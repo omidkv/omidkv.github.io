@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Kevin Omidvaran</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/modern-business.css" rel="stylesheet">
+      <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet"/>
+
+
+  </head>
+
+  <body>
+
+    <!-- Navigation -->
+    <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark fixed-top">
+      <div class="container">
+        <a class="navbar-brand" href="index.html">Kevin Omidvaran</a>
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+<!--
+            <li class="nav-item">
+              <a class="nav-link" href="about.html">About</a>
+            </li>
+-->
+            <li class="nav-item">
+                <li class="nav-item">
+              <a class="nav-link" href="education.html">Education</a>
+            </li>
+                <li class="nav-item">
+              <a class="nav-link" href="portfolio_1.html">Projects</a>
+            </li>
+              <a class="nav-link" href="./Omidvaran_kevin_Sep18_Resume.docx.pdf">Resume</a>
+            </li>
+            
+
+           
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <header>
+      <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+        <ol class="carousel-indicators">
+          <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+        </ol>
+        <div class="carousel-inner" role="listbox">
+          <!-- Slide One - Set the background image for this slide in the line below -->
+          <div class="carousel-item active" style="background-image: url('./images/IMG_1175.JPG')">
+            <div class="carousel-caption d-none d-md-block">
+              <h3 class="first">Mindful</h3>
+            </div>
+          </div>
+          <!-- Slide Two - Set the background image for this slide in the line below -->
+          <div class="carousel-item" style="background-image: url('./images/IMG_0728.JPG')">
+            <div class="carousel-caption d-none d-md-block">
+              <h3>Persistant</h3>
+            </div>
+          </div>
+          <!-- Slide Three - Set the background image for this slide in the line below -->
+          <div class="carousel-item" style="background-image: url('./images/IMG_0770.JPG')">
+            <div class="carousel-caption d-none d-md-block">
+              <h3>Team Player</h3>
+            </div>
+          </div>
+        </div>
+        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+        </a>
+      </div>
+    </header>
+
+    <!-- Page Content -->
+    <div class="container">
+
+      <h1 class="my-4">Personal Website of Kevin Omidvaran</h1>
+
+      <!-- Marketing Icons Section -->
+      <div class="row">
+<!--
+        <div class="col-lg-4 mb-4">
+          <div class="card h-100">
+            <h4 class="card-header">Card Title</h4>
+            <div class="card-body">
+              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
+            </div>
+            <div class="card-footer">
+              <a href="#" class="btn btn-primary">Learn More</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 mb-4">
+          <div class="card h-100">
+            <h4 class="card-header">Card Title</h4>
+            <div class="card-body">
+              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis ipsam eos, nam perspiciatis natus commodi similique totam consectetur praesentium molestiae atque exercitationem ut consequuntur, sed eveniet, magni nostrum sint fuga.</p>
+            </div>
+            <div class="card-footer">
+              <a href="#" class="btn btn-primary">Learn More</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 mb-4">
+          <div class="card h-100">
+            <h4 class="card-header">Card Title</h4>
+            <div class="card-body">
+              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
+            </div>
+            <div class="card-footer">
+              <a href="#" class="btn btn-primary">Learn More</a>
+            </div>
+          </div>
+        </div>
+-->
+          <h3> Quick Guide to Me</h3>
+          <p>I am currently a student at the University of California, Irvine, working towards my Master’s of Science in Computer Science. I recently graduated from the University of New Mexico with a Bachelor's degree in Computer Science and a minor in Economics. I am interested in agile development, as well as building models that can be verified by data. Over the course of my experience, I have learned the importance of having a humble and curious mentality. I have seen when I enter new experiences with this mentality, I can learn new things and always improve what I am working on. This motivates me to strive to have this attitude in all the things I do. To find out more about me check out my about section.  </p>
+      </div>
+      <!-- /.row -->
+
+      <!-- Portfolio Section -->
+      <h2>Projects</h2>
+
+      <div class="row">
+        <div class="col-lg-6 col-sm-12 portfolio-item">
+          <div class="card h-100">
+<!--            <a href="#"><img class="card-img-top" src="./images/elev_1.png" alt=""></a>-->
+              
+              
+              
+              <div id="carouselElev" class="carousel slide" data-ride="carousel">
+        <ol class="carousel-indicators">
+          <li data-target="#carouselElev" data-slide-to="0" class="active"></li>
+          <li data-target="#carouselElev" data-slide-to="1"></li>
+        </ol>
+        <div class="carousel-inner" role="listbox">
+          <!-- Slide One - Set the background image for this slide in the line below -->
+          <div class="carousel-item active" style="background-image: url('./images/elev_1.png')">
+            <div class="carousel-caption d-none d-md-block">
+            </div>
+          </div>
+          <!-- Slide Two - Set the background image for this slide in the line below -->
+          <div class="carousel-item" style="background-image: url('./images/elev_2.png')">
+            <div class="carousel-caption d-none d-md-block">
+            </div>
+          </div>
+          <!-- Slide Three - Set the background image for this slide in the line below -->
+        </div>
+        <a class="carousel-control-prev" href="#carouselElev" role="button" data-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselElev" role="button" data-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+        </a>
+      </div>
+              
+              
+              
+            <div class="card-body">
+              <h4 class="card-title">
+                <a href="https://github.com/clfm/Elevator">Elevator Project</a>
+              </h4>
+              <p class="card-text">The elevator project was a team project in a software engineering class. This was an exercise in agile development. In the span of 4 weeks, we were tasked with creating an elevator simulator. Each week we needed to have a project that we could display, even if it didn’t have complete functionality. I was in charge of the physical functions behind the graphic interface, specifically the cabin motion and the door controls. Besides this being an interesting coding assignment, this project demonstrated the challenges of working in a team and the importance of communication.</p>
+            </div>
+          </div>
+        </div>
+          
+          
+          
+          
+        <div class="col-lg-6 col-sm-12 portfolio-item">
+          <div class="card h-100">
+            <a href="#"><img class="card-img-top" src="./images/graph.png" alt=""></a>
+            <div class="card-body">
+              <h4 class="card-title">
+                <a>Twitter Simulation</a>
+              </h4>
+              <p class="card-text">The Twitter simulation was an agent based model that was meant to simulate the social graph composed of follow/following connections on Twitter. The goal of the project was to help analyse what could occur on Twitter if certain types of agents changed in number. For instance, if bots became the majority of the Twitter population we could tell what the connections graph would look like. This project used MPI to try and scale the project to 1 million users. Unfortunately, the largest scale we could reach was 10,000. Scalability became a hurdle that couldn’t be overcome at the time. The decision process was a set of probabilities based on common followers, location, and a couple of other commonalities. In order to visualize the model we used both Bokeh Data Visualization Tool and Gephi. In the future, we hope to overcome the restraints of scale and continue with the project.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-6 col-sm-12 portfolio-item">
+          <div class="card h-100">
+            <a href="#"><img class="card-img-top" src="images/hokm.png" alt=""></a>
+            <div class="card-body">
+              <h4 class="card-title">
+                <a href="https://github.com/omidkv/Hokm">Hokm</a>
+              </h4>
+              <p class="card-text">I designed a terminal game based on a classic Persian card game. I developed the game in Python. The game consists of three main components. These are the game loop, the comparator, and the individual players. The game loop uses the players and the comparator to gain information about the state of the game. The main exercise for this project was in designing an Artificial Intelligence. The first iteration was simple in the decision making process while the second iteration uses a more in depth decision tree. In the next iteration a recurrent neural net will be utilized. </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-6 col-sm-12 portfolio-item">
+          <div class="card h-100">
+              
+              
+              
+               <div id="carouselLife" class="carousel slide" data-ride="carousel">
+        <ol class="carousel-indicators">
+          <li data-target="#carouselLife" data-slide-to="0" class="active"></li>
+          <li data-target="#carouselLife" data-slide-to="1"></li>
+          <li data-target="#carouselLife" data-slide-to="2"></li>
+
+        </ol>
+        <div class="carousel-inner" role="listbox">
+          <!-- Slide One - Set the background image for this slide in the line below -->
+          <div class="carousel-item active" style="background-image: url('./images/3d_1.png')">
+            <div class="carousel-caption d-none d-md-block">
+            </div>
+          </div>
+          <!-- Slide Two - Set the background image for this slide in the line below -->
+          <div class="carousel-item" style="background-image: url('./images/3d_2.png')">
+            <div class="carousel-caption d-none d-md-block">
+            </div>
+          </div>
+            <div class="carousel-item" style="background-image: url('./images/3d_3.png')">
+            <div class="carousel-caption d-none d-md-block">
+            </div>
+          </div>
+          <!-- Slide Three - Set the background image for this slide in the line below -->
+        </div>
+        <a class="carousel-control-prev" href="#carouselLife" role="button" data-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselLife" role="button" data-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+        </a>
+      </div>
+              
+              
+              
+            <div class="card-body">
+              <h4 class="card-title">
+                <a href="https://github.com/omidkv/GameOfLife3d">3D Game of Life</a>
+              </h4>
+              <p class="card-text">This project was a variation on Conway’s Game of Life in three dimensions. I used JavaFX for the graphics for this project. Besides being in 3D, this variation of the game allows the user to set their own rules. When a cell is dying, it will shrink and eventually disappear and will increase in size as a new cell is born. In order to better visualize these functionalities, the user can set the speed of the game updates.</p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+      <!-- /.row -->
+
+      
+      <!-- /.row -->
+
+
+
+    </div>
+    <!-- /.container -->
+
+    <!-- Footer -->
+    <footer class="py-5 bg-dark">
+        <div class="container text-center">
+    <a href="https://facebook.com/komidvaran"><i class="fa fa-facebook"></i></a>
+    <a href="https://github.com/omidkv"><i class="fa fa-github"></i></a>
+    <a href="https://linkedin.com/in/komidvaran"><i class="fa fa-linkedin"></i></a>
+    <p class="m-0 text-center text-white">omidkv@gmail.com</p>
+
+  </div>
+      <div class="container">
+        <p class="m-0 text-center text-white">Copyright &copy; Kevin Omidvaran 2018</p>
+      </div>
+      <!-- /.container -->
+    </footer>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  </body>
+
+</html>
